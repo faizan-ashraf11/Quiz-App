@@ -1,0 +1,10 @@
+.hoverFeature{
+    background-color: rgba(137, 43, 226, 0.785);
+    transition: 0.3s ease-in-out;
+}
+.hoverFeature:hover{
+    background-color: rgba(137, 43, 226, 0.986);
+}
+.upperGap{
+    margin-top: 30px;
+}
